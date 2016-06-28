@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Foundation Shortcodes\n"
+"POT-Creation-Date: 2015-10-18 09:12+0200\n"
+"PO-Revision-Date: 2015-10-18 09:12+0200\n"
+"Last-Translator: Adam Pery <adam@tadam.co.il>\n"
+"Language-Team:  <adam@tadam.co.il>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_c;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class.foundation_TinyMCE_shortcodes.php:90
+msgid "Cancel"
+msgstr "לבטל"
+
+#: ../class.foundation_TinyMCE_shortcodes.php:91
+msgid "Insert"
+msgstr "הכנס"
+
+#: ../class.foundation_TinyMCE_shortcodes.php:95
+msgid "Shortcode Options"
+msgstr "אפשרויות קוד קצר"
+
+#: ../class.foundation_shortcodes.php:164
+msgid "Alert box"
+msgstr "תיבת התראה"
+
+#: ../class.foundation_shortcodes.php:412
+msgid "Recommended"
+msgstr "מומלץ"
+
+#: ../class.foundation_shortcodes.php:436
+#: ../class.foundation_shortcodes.php:1749
+#: ../class.foundation_shortcodes.php:1794
+msgid "Read more"
+msgstr "קרא עוד"
+
+#: ../class.foundation_shortcodes.php:463
+msgid "Label"
+msgstr "תווית"
+
+#: ../class.foundation_shortcodes.php:535
+msgid "Dropdown"
+msgstr ""
+
+#: ../class.foundation_shortcodes.php:592
+msgid "Split Button"
+msgstr "לחצן מפוצל"
+
+#: ../class.foundation_shortcodes.php:623
+msgid ""
+"Those people who think they know everything are a great annoyance to those "
+"of us who do."
+msgstr ""
+
+#: ../class.foundation_shortcodes.php:824
+#, php-format
+msgid ""
+"Warning: you should enable Google Map first. Go to <a href=\"%s\" target="
+"\"_blank\">WP Foundation Shortcodes Settings</a> page."
+msgstr ""
+"אזהרה: יש לאפשר 'מפות גוגל' קודם. העבור אל הדף <a href=\"%s\" target=\"_blank"
+"\">הגדרות WP Foundation Shortcodes</a>."
+
+#: ../class.foundation_shortcodes.php:956
+#: ../class.foundation_shortcodes.php:1426
+#, php-format
+msgid ""
+"Warning: you should enable Slick Slider first. Go to <a href=\"%s\" target="
+"\"_blank\">WP Foundation Shortcodes Settings</a> page."
+msgstr ""
+"אזהרה: יש לאפשר 'סליידר סליק' קודם. העבור אל הדף <a href=\"%s\" target="
+"\"_blank\">הגדרות WP Foundation Shortcodes</a>."
+
+#: ../class.foundation_shortcodes.php:1724
+msgid "on"
+msgstr "על"
+
+#: ../class.foundation_plugin_admin.php:21
+msgid "Wordpress Plugin Page"
+msgstr ""
+
+#: ../class.foundation_plugin_admin.php:22
+msgid "Full Documantation & Demo"
+msgstr ""
+
+#: ../class.foundation_plugin_admin.php:34 ../admin/pages/dashboard.php:7
+msgid "WP Foundation Shortcodes"
+msgstr ""
+
+#: ../class.foundation_plugin_admin.php:34
+msgid "WP Foundation"
+msgstr ""
+
+#: ../class.foundation_plugin_admin.php:89
+msgid "Settings"
+msgstr "הגדרות"
+
+#: ../class.foundation_plugable.php:99
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "השאירו תגובה<span class=\"screen-reader-text\"> על %s</span>"
+
+#: ../wp-foundation-shortcodes.php:43
+msgid "Please enable this plugin from your wp-admin."
+msgstr "אנא אפשר תוסף הזה ממערכת ניהול."
+
+#: ../admin/pages/dashboard.php:9
+msgid "Follow us, and do not miss anything!"
+msgstr "עקוב אחרינו ולא תפספס שום דבר!"
+
+#: ../admin/pages/dashboard.php:23
+msgid "We love stars"
+msgstr "אנחנו אוהבים כוכבים"
+
+#: ../admin/pages/dashboard.php:25
+#, php-format
+msgid "Please write %s review %s"
+msgstr "אנא כתוב %s סיקור %s"
+
+#: ../admin/pages/dashboard.php:27
+msgid "Please help us to continue develop this free wordpress plug-in"
+msgstr "אנא עזרו לנו להמשיך לפתח את התוסף וורדפרס חינמי"
+
+#: ../admin/pages/dashboard.php:37
+msgid "Enable Google Map"
+msgstr "אפשר מפות גוגל"
+
+#: ../admin/pages/dashboard.php:44
+msgid "Enable Slick Slider"
+msgstr "אפשר סליידר סליק"
+
+#: ../admin/pages/dashboard.php:51
+msgid ""
+"You should enable it to work <strong>[google_map]</strong> and "
+"<strong>[slick_slider]</strong> shortcodes. It is important to not upload "
+"unnecessary CSS and JS."
+msgstr ""
+"יש לאפשר אותם כדי שקודים קצרים <strong>[google_map]</strong> ו "
+"<strong>[slick_slider]</strong> יעבדו. חשוב כדי שלא להעלות CSS ו JS מיותרים."
+
+#: ../includes/post-list-content.php:49
+msgid "Continue reading..."
+msgstr "המשך לקרוא..."
+
+#~ msgid "Posted on %s at %s."
+#~ msgstr "פורסם ב %s בשעה %s."
+
+#~ msgid "Written by"
+#~ msgstr "נכתב ע\"י"
